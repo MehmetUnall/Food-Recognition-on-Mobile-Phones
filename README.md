@@ -1,1 +1,2 @@
 # Food-Recognition-on-Mobile-Phones
+One of the most important actions we need to keep our lives alive is to eat. We provide the necessary energy for our bodies by eating. We also have fun. Most of us like to eat. Our project will be liked by people who like to eat. The main purpose of our project is to show the name of the food that we take with the camera on the screen. In this way, we can easily learn the names of the things we eat.
